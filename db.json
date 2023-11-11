@@ -1,0 +1,40 @@
+{
+  "users": [
+    {
+      "email": "admin@email.com",
+      "password": "$2a$10$X6Qyabkl6urEAc7w2N7ND.3go3CmgHpZttFiTmWF54esfPf8GZB/a",
+      "id": 1,
+      "isAdmin": true
+    },
+    {
+      "email": "senacrs@email.com",
+      "password": "$2a$10$Q6RX/1ZcT4bzWJMKHrk0TOdBTHEN.m7.nQ8YAtXeGJCfjBldVUuYK",
+      "id": 2
+    },
+    {
+      "email": "teste@gmail.com",
+      "password": "$2a$10$lVWQaAQFXPIiRbS97Emt.ekNPn21AhjP3gaa714I6h4wuhRZ/Lwfa",
+      "id": 3
+    },
+    {
+      "email": "email@cadastro.com",
+      "password": "$2a$10$Yj0jbVW7Z4mOmaCWWuQfXOlR2p8ADXR89Ay4nUBzSVD6I/H3K0uqe",
+      "id": 4
+    },
+    {
+      "email": "diego@gmail.com",
+      "password": "$2a$10$VsnNS1TiwheKXa59vVU.beKk87aCelYx2nLh.rs/p6v9GVY3Q5i/q",
+      "id": 5
+    },
+    {
+      "email": "dieguin@outlook.com",
+      "password": "$2a$10$PKXcRXJdSwPGj4t/tQSI6eBtVKWxWyGlmF/1AGtq2hr9UpMv1Kk1.",
+      "id": 6
+    },
+    {
+      "email": "maria@yahoo.com",
+      "password": "$2a$10$bGNXlJSe7n4iyOjfZQ.lR.ONoAXlPEjypWCpfK40cAfIl0XRqF2Z.",
+      "id": 7
+    }
+  ]
+}
