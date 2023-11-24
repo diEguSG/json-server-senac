@@ -1,40 +1,43 @@
 {
   "users": [
     {
-      "email": "admin@email.com",
-      "password": "$2a$10$X6Qyabkl6urEAc7w2N7ND.3go3CmgHpZttFiTmWF54esfPf8GZB/a",
-      "id": 1,
-      "isAdmin": true
+      "email": "maria@senacrs.com",
+      "password": "$2a$10$kAohfM.xRGbDxYNiyrg2suOiBqoL7uRLDsJVkZShRVss5qegHhKdu",
+      "nome": "Maria",
+      "id": 1
+    }
+  ],
+  "situacao": [
+    {
+      "descricao": "Inativo",
+      "id": 1
     },
     {
-      "email": "senacrs@email.com",
-      "password": "$2a$10$Q6RX/1ZcT4bzWJMKHrk0TOdBTHEN.m7.nQ8YAtXeGJCfjBldVUuYK",
+      "descricao": "Ativo",
+      "id": 2
+    }
+  ],
+  "produto": [
+    {
+      "descricao": "teste",
+      "valorCusto": "5",
+      "valorVenda": "10",
+      "situacao": "2",
+      "id": 1
+    },
+    {
+      "descricao": "olá",
+      "valorCusto": "10",
+      "valorVenda": "20",
+      "situacao": "2",
       "id": 2
     },
     {
-      "email": "teste@gmail.com",
-      "password": "$2a$10$lVWQaAQFXPIiRbS97Emt.ekNPn21AhjP3gaa714I6h4wuhRZ/Lwfa",
+      "descricao": "",
+      "valorCusto": "",
+      "valorVenda": "",
+      "situacao": "2",
       "id": 3
-    },
-    {
-      "email": "email@cadastro.com",
-      "password": "$2a$10$Yj0jbVW7Z4mOmaCWWuQfXOlR2p8ADXR89Ay4nUBzSVD6I/H3K0uqe",
-      "id": 4
-    },
-    {
-      "email": "diego@gmail.com",
-      "password": "$2a$10$VsnNS1TiwheKXa59vVU.beKk87aCelYx2nLh.rs/p6v9GVY3Q5i/q",
-      "id": 5
-    },
-    {
-      "email": "dieguin@outlook.com",
-      "password": "$2a$10$PKXcRXJdSwPGj4t/tQSI6eBtVKWxWyGlmF/1AGtq2hr9UpMv1Kk1.",
-      "id": 6
-    },
-    {
-      "email": "maria@yahoo.com",
-      "password": "$2a$10$bGNXlJSe7n4iyOjfZQ.lR.ONoAXlPEjypWCpfK40cAfIl0XRqF2Z.",
-      "id": 7
     }
   ]
 }
